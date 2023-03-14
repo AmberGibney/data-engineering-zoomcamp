@@ -3,7 +3,7 @@ locals {
 }
 
 variable "project" {
-  description = "orbital-lacing-376212"
+  description = ""
 }
 
 variable "region" {
